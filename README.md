@@ -14,7 +14,7 @@ To create artwork, I will uphold the moral code.
 Please click the thumbnail to watch videos.
 
 ## **Text to Video**
-  - Stable Diffusion, Stable Diffusion, VQGAN+CLIP
+  - Stable Diffusion, Disco Diffusion, VQGAN+CLIP
 
 [![Castle in the rain](https://img.youtube.com/vi/Zcb5XgOU5zo/0.jpg)](https://www.youtube.com/watch?v=Zcb5XgOU5zo  "Castle in the rain")
 
